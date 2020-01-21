@@ -1,7 +1,7 @@
 # Личный проект «Техномарт»
 
-* Студент: [Роман Демушкин](https://up.htmlacademy.ru/htmlcss/27/user/57286).
-* Наставник: `Неизвестно`.
+- Студент: [Роман Демушкин](https://up.htmlacademy.ru/htmlcss/27/user/57286).
+- Наставник: [Юрий Головин](https://up.htmlacademy.ru/htmlcss/27/user/520167).
 
 ---
 
